@@ -1,6 +1,7 @@
 # OFDM Systems study and simulation
-Jiajing Liao
+EEL6509 Wireless Communication Course Project Report
 
+## [PDF Version](https://github.com/LiaoJJ/Study-and-Simulation-of-OFDM-Systems/blob/main/final_report.pdf)
 
 ## Abstract - A paragraph that summarizes the problem and the results.
 In this report, we will firstly have a review of classic Multiple Access technology, TDMA, FDMA, and CDMA. Then for a higher channel utilization, we will improve FDMA to OFDM, which uses the channel more compactly. The later part of this report will focus on the experiment and simulation of OFDM. We will introduce our experiment details and display our experiment results. Finally, we will make a summary and conclusion.
@@ -154,24 +155,24 @@ In this report, we firstly introduce 3 classic Multiple Access techniques, TDMA,
 
 
 ## Reference list
-Cho, Yong Soo, Jaekwon Kim, Won Y. Yang, and Chung G. Kang. MIMO-OFDM wireless communications with MATLAB. John Wiley & Sons, 2010.
-Rappaport, Theodore S. Wireless communications: principles and practice. Vol. 2. New Jersey: prentice hall PTR, 1996.
-Nee, Richard van, and Ramjee Prasad. OFDM for wireless multimedia communications. Artech House, Inc., 2000.
+- Cho, Yong Soo, Jaekwon Kim, Won Y. Yang, and Chung G. Kang. MIMO-OFDM wireless communications with MATLAB. John Wiley & Sons, 2010.
+- Rappaport, Theodore S. Wireless communications: principles and practice. Vol. 2. New Jersey: prentice hall PTR, 1996.
+- Nee, Richard van, and Ramjee Prasad. OFDM for wireless multimedia communications. Artech House, Inc., 2000.
 Stuber, Gordon L., John R. Barry, Steven W. Mclaughlin, Ye Li, Mary Ann Ingram, and Thomas G. Pratt. "Broadband MIMO-OFDM wireless communications." Proceedings of the IEEE 92, no. 2 (2004): 271-294.
-Li, Xiaodong, and Leonard J. Cimini. "Effects of clipping and filtering on the performance of OFDM." In 1997 IEEE 47th Vehicular Technology Conference. Technology in Motion, vol. 3, pp. 1634-1638. IEEE, 1997.
-Cimini, Leonard J., and Nelson R. Sollenberger. "Peak-to-average power ratio reduction of an OFDM signal using partial transmit sequences." IEEE Communications Letters 4, no. 3 (2000): 86-88.
-Van De Beek, J-J., Ove Edfors, Magnus Sandell, Sarah Kate Wilson, and P. Ola Borjesson. "On channel estimation in OFDM systems." In 1995 IEEE 45th Vehicular Technology Conference. Countdown to the Wireless Twenty-First Century, vol. 2, pp. 815-819. IEEE, 1995.
-Prasad, Ramjee. OFDM for wireless communications systems. Artech House, 2004.
+- Li, Xiaodong, and Leonard J. Cimini. "Effects of clipping and filtering on the performance of OFDM." In 1997 IEEE 47th Vehicular Technology Conference. Technology in Motion, vol. 3, pp. 1634-1638. IEEE, 1997.
+- Cimini, Leonard J., and Nelson R. Sollenberger. "Peak-to-average power ratio reduction of an OFDM signal using partial transmit sequences." IEEE Communications Letters 4, no. 3 (2000): 86-88.
+- Van De Beek, J-J., Ove Edfors, Magnus Sandell, Sarah Kate Wilson, and P. Ola Borjesson. "On channel estimation in OFDM systems." In 1995 IEEE 45th Vehicular Technology Conference. Countdown to the Wireless Twenty-First Century, vol. 2, pp. 815-819. IEEE, 1995.
+- Prasad, Ramjee. OFDM for wireless communications systems. Artech House, 2004.
 Dent, Paul W. "TDMA/FDMA/CDMA hybrid radio access methods." U.S. Patent 5,539,730, issued July 23, 1996.
-Galda, Dirk, and Hermann Rohling. "A low complexity transmitter structure for OFDM-FDMA uplink systems." In Vehicular Technology Conference. IEEE 55th Vehicular Technology Conference. VTC Spring 2002 (Cat. No. 02CH37367), vol. 4, pp. 1737-1741. IEEE, 2002.
-Priyanto, Basuki E., Humbert Codina, Sergi Rene, Troels B. Sorensen, and Preben Mogensen. "Initial performance evaluation of DFT-spread OFDM based SC-FDMA for UTRA LTE uplink." In 2007 IEEE 65th Vehicular Technology Conference-VTC2007-Spring, pp. 3175-3179. IEEE, 2007.
-Li, Xiaodong, and Leonard J. Cimini. "Effects of clipping and filtering on the performance of OFDM." In 1997 IEEE 47th Vehicular Technology Conference. Technology in Motion, vol. 3, pp. 1634-1638. IEEE, 1997.
-Wong, Cheong Yui, Roger S. Cheng, K. Ben Lataief, and Ross D. Murch. "Multiuser OFDM with adaptive subcarrier, bit, and power allocation." IEEE Journal on selected areas in communications 17, no. 10 (1999): 1747-1758.
-Li, Y. L. J. C., Leonard J. Cimini, and Nelson R. Sollenberger. "Robust channel estimation for OFDM systems with rapid dispersive fading channels." IEEE Transactions on communications 46, no. 7 (1998): 902-915.
-M. Zi, 'OFDM Complete Simulation Process and Interpretation (MATLAB)', 2019. [Online]. Available: https://zhuanlan.zhihu.com/p/57967971. [Accessed: 16- Dec- 2020].
-D. Du, 'Matlab - OFDM communication link simulation', 2020. [Online]. Available: https://zhuanlan.zhihu.com/p/139381223. [Accessed: 16- Dec- 2020].
-Y. Guan, 'MATLAB simulation of OFDM communication system', 2020. [Online]. Available: https://www.cnblogs.com/gjblog/p/13352746.html. [Accessed: 16- Dec- 2020].
-LTE, '2.3 - OFDM/ OFDMA IN 4G LTE - PART 1', 2016. [Online]. Available: https://youtu.be/rKy5dOl3Et4. [Accessed: 16- Dec- 2020].
-C. Sunny, 'OFDM - Orthogonal Frequency Division Multiplexing', 2018. [Online]. Available: https://youtu.be/KCHO7zlU25Q. [Accessed: 16- Dec- 2020].
-Mayank, 'ofdm frequency plot.m', 2014. [Online]. Available: https://www.mathworks.com/matlabcentral/fileexchange/46328-ofdm-frequency-plot-m. [Accessed: 16- Dec- 2020].
-D. Ma, 'Explain the principle of OFDM to the "Xiaobai" diagram', 2014. [Online]. Available: https://blog.csdn.net/madongchunqiu/article/details/18614233. [Accessed: 16- Dec- 2020].
+- Galda, Dirk, and Hermann Rohling. "A low complexity transmitter structure for OFDM-FDMA uplink systems." In Vehicular Technology Conference. IEEE 55th Vehicular Technology Conference. VTC Spring 2002 (Cat. No. 02CH37367), vol. 4, pp. 1737-1741. IEEE, 2002.
+- Priyanto, Basuki E., Humbert Codina, Sergi Rene, Troels B. Sorensen, and Preben Mogensen. "Initial performance evaluation of DFT-spread OFDM based SC-FDMA for UTRA LTE uplink." In 2007 IEEE 65th Vehicular Technology Conference-VTC2007-Spring, pp. 3175-3179. IEEE, 2007.
+- Li, Xiaodong, and Leonard J. Cimini. "Effects of clipping and filtering on the performance of OFDM." In 1997 IEEE 47th Vehicular Technology Conference. Technology in Motion, vol. 3, pp. 1634-1638. IEEE, 1997.
+- Wong, Cheong Yui, Roger S. Cheng, K. Ben Lataief, and Ross D. Murch. "Multiuser OFDM with adaptive subcarrier, bit, and power allocation." IEEE Journal on selected areas in communications 17, no. 10 (1999): 1747-1758.
+- Li, Y. L. J. C., Leonard J. Cimini, and Nelson R. Sollenberger. "Robust channel estimation for OFDM systems with rapid dispersive fading channels." IEEE Transactions on communications 46, no. 7 (1998): 902-915.
+- M. Zi, 'OFDM Complete Simulation Process and Interpretation (MATLAB)', 2019. [Online]. Available: https://zhuanlan.zhihu.com/p/57967971. [Accessed: 16- Dec- 2020].
+- D. Du, 'Matlab - OFDM communication link simulation', 2020. [Online]. Available: https://zhuanlan.zhihu.com/p/139381223. [Accessed: 16- Dec- 2020].
+- Y. Guan, 'MATLAB simulation of OFDM communication system', 2020. [Online]. Available: https://www.cnblogs.com/gjblog/p/13352746.html. [Accessed: 16- Dec- 2020].
+- LTE, '2.3 - OFDM/ OFDMA IN 4G LTE - PART 1', 2016. [Online]. Available: https://youtu.be/rKy5dOl3Et4. [Accessed: 16- Dec- 2020].
+- C. Sunny, 'OFDM - Orthogonal Frequency Division Multiplexing', 2018. [Online]. Available: https://youtu.be/KCHO7zlU25Q. [Accessed: 16- Dec- 2020].
+- Mayank, 'ofdm frequency plot.m', 2014. [Online]. Available: https://www.mathworks.com/matlabcentral/fileexchange/46328-ofdm-frequency-plot-m. [Accessed: 16- Dec- 2020].
+- D. Ma, 'Explain the principle of OFDM to the "Xiaobai" diagram', 2014. [Online]. Available: https://blog.csdn.net/madongchunqiu/article/details/18614233. [Accessed: 16- Dec- 2020].
